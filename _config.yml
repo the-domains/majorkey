@@ -1,0 +1,28 @@
+name: majorkey
+favicon: null
+layout_spectrum: 0.15289588109590113
+typography_spectrum: 0.8422358501702547
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.003987352130934596
+  lightness: 0.007869073189795017
+  saturation: 0.5954089921433479
+  rhythmicContrast: 0.7089111495297402
+purpose: []
